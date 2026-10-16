@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de variables de entorno (credenciales y contraseñas)
+.env
+
+# Archivos de compilación de Python
+__pycache__/
+*.py[cod]
+
+# Configuración del editor
+.vscode/
+.idea/
