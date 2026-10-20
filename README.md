@@ -7,7 +7,7 @@ API RESTful desarrollada con **Django** y **Django REST Framework (DRF)** para l
 ##  Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.x
-* **Framework:** Django 4.x / Django REST Framework
+* **Framework:** Django / Django REST Framework
 * **Base de Datos:** PostgreSQL
 * **Contenerización:** Docker & Docker Compose
 * **Documentación:** Swagger UI / drf-yasg
