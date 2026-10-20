@@ -1,10 +1,10 @@
-# 🚀 API REST - Gestión de Usuarios
+#  API REST - Gestión de Usuarios
 
 API RESTful desarrollada con **Django** y **Django REST Framework (DRF)** para la gestión y administración de usuarios, construida siguiendo una arquitectura en capas (DAO/DTO) e integrada con **PostgreSQL** mediante contenedores de **Docker**. Incluye documentación interactiva OpenAPI/Swagger.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.x
 * **Framework:** Django 4.x / Django REST Framework
@@ -15,7 +15,7 @@ API RESTful desarrollada con **Django** y **Django REST Framework (DRF)** para l
 
 ---
 
-## 🏗️ Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 El proyecto implementa un patrón en capas para desacoplar la lógica de negocio de la capa de persistencia:
 
